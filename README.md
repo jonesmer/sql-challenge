@@ -1,4 +1,5 @@
 # sql-challenge
+An exercise using some basic SQL methods
 
 This repository contains two .sql files:
  - *schema_mj.sql* is used to create tables from the CSV files in the _data_ folder - including all relationships.
